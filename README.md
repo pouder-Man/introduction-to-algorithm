@@ -11,7 +11,5 @@ chapter
 2. [15-1] RodCutting
     - 동적 계획법(dynamic programming)
 
-clion git test
-
 [4-1]: https://github.com/pouder-Man/introduction-to-algorithm/blob/master/code/4-1_FindMaxSubArray.cpp
 [15-1]: https://github.com/pouder-Man/introduction-to-algorithm/blob/master/code/15-1_rodCutting.cpp
