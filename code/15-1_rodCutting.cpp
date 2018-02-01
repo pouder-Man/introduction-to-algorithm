@@ -1,6 +1,6 @@
 //
 // Created by vkdne on 2018-02-01.
-//
+// 
 #include <iostream>
 #include <math.h>
 using namespace std;
