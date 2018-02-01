@@ -1,6 +1,6 @@
 //
 // Created by vkdne on 2018-02-01.
-// 
+//
 #include <iostream>
 #include <math.h>
 using namespace std;
@@ -21,7 +21,7 @@ int main(){
 
     for(int i = 2; i <= N ; i++){
         int temp = arr[i];
-        for(int j = 1; j < N ; j++){
+        for(int j = 1; j < i ; j++){
             if(temp < dp[i-j] + dp[j])
                 temp = dp[i-j] + dp[j];
         }
