@@ -1,8 +1,5 @@
-index
-=========
-
 chapter
--------
+=======
 
 1. 4-1 FindMaxSubArray
     - 부분 수열의 합(max consecutive number sub sequence)
